@@ -9,20 +9,20 @@
 
 # Define a method that takes in and uses an argument
 def introduction(name)
-  #puts "Hi, my name is #{name}."
+  # puts "Hi, my name is #{name}."
   
 end
 
 
 # Define a method that takes in and uses two arguments
 def introduction_with_language(name, language)
- #puts "Hi, my name is #{name} and I am learning to program in #{language}."
+ # puts "Hi, my name is #{name} and I am learning to program in #{language}."
  end
  
  
 # Define a method with an optional argument
 def introduction_with_language_optional(name, language="Ruby")
- #puts "Hi, my name is #{name} and I am learning to program in #{language}."
+ # Lputs "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
 
