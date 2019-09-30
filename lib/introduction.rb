@@ -5,7 +5,6 @@
 
 # Ruby Method Arguments Lab
 
-## Learning Goals
 
 - Define a method that takes in and uses an argument
 - Define a method that takes in and uses two arguments
