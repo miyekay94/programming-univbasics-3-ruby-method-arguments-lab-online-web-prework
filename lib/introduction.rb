@@ -4,7 +4,7 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
-#Method arguments L
+              #Method Arguments Lab
 
 # Define a method that takes in and uses an argument
 # Define a method that takes in and uses two arguments
