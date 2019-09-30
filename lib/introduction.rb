@@ -3,7 +3,13 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
+# Ruby Method Arguments Lab
 
+## Learning Goals
+
+- Define a method that takes in and uses an argument
+- Define a method that takes in and uses two arguments
+- Define a method with an optional argument
 
 
 
