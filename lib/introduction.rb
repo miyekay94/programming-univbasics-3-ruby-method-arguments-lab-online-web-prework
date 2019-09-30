@@ -22,7 +22,7 @@ def introduction_with_language(name, language)
  
 # Define a method with an optional argument
 def introduction_with_language_optional(name, language="Ruby")
- # Lputs "Hi, my name is #{name} and I am learning to program in #{language}."
+ # puts "Hi, my name is #{name} and I am learning to program in #{language}."
 end
 
 
