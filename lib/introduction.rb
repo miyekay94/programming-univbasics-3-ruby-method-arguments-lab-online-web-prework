@@ -5,7 +5,7 @@
 
 
 
-# Ruby Method Arguments Lab
+            # Ruby Method Arguments Lab
 
 # Define a method that takes in and uses an argument
 def introduction(name)
@@ -18,6 +18,7 @@ end
 def introduction_with_language(name, language)
  #puts "Hi, my name is #{name} and I am learning to program in #{language}."
  end
+ 
  
 # Define a method with an optional argument
 def introduction_with_language_optional(name, language="Ruby")
